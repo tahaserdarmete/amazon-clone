@@ -6,6 +6,8 @@ Hızlı ve keyifli alışveriş yapabileceğiniz responsive'ui ya sahip alışve
 
 
 # Kullanılan Teknolojiler
+
+
 - HTML
 - CSS
 
