@@ -4,6 +4,13 @@ Hızlı ve keyifli alışveriş yapabileceğiniz responsive'ui ya sahip alışve
 
 İconlar ve hover efektleri kullanılmıştır.
 
+
+# Kullanılan Teknolojiler
+- HTML
+- CSS
+
+
 # EKRAN GÖRÜNTÜSÜ
+
 
 <img src="amazon-clone.gif" />
