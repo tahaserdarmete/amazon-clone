@@ -1,18 +1,18 @@
 # Amazon Clone
 
-Hızlı ve keyifli alışveriş yapabileceğiniz responsive'ui ya sahip alışveriş sitesidir.
+It is a shopping site with responsive UI where you can shop quickly and enjoyably.
 
-İconlar ve hover efektleri kullanılmıştır.
+Icons and hover effects are used.
 
 
-# Kullanılan Teknolojiler
+# Teknologies Used
 
 
 - HTML
 - CSS
 
 
-# EKRAN GÖRÜNTÜSÜ
+# ScreenShot
 
 
 <img src="amazon-clone.gif" />
